@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/chinese" android:title="chinese"/>
+    <item android:id="@+id/english" android:title="english"/>
+    <item android:id="@+id/add" android:title="添加"/>
+</menu>
